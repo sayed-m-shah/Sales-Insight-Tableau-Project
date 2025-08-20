@@ -3,7 +3,7 @@
 This is a project I replicated from Codebasics PowerBI YouTube playlist, but instead of using PowerBI,  
 I created the dashboard in **Tableau Public**. You can find the original playlist link below for reference:
 
-[Codebasics Youtube Playlist](https://youtube.com/playlist?list=PLeo1K3hjS3uva8pk1FI3iK9kCOKQdz1I9)
+[Codebasics Youtube Playlist](https://www.youtube.com/playlist?list=PLeo1K3hjS3uva8pk1FI3iK9kCOKQdz1I9)
 
 [Live Dashboard Link](https://public.tableau.com/views/SalesInsightsProject_17556326312940/Dashboard-RevenueAnalysis?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
