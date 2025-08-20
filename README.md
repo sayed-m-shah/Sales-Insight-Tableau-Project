@@ -8,6 +8,8 @@ You can find the free playlist link below of the PowerBI version of this project
 
 [Live Dashboard Link](https://public.tableau.com/views/SalesInsightsProject_17556326312940/Dashboard-RevenueAnalysis?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
+[LinkedIn Post Presentation](https://www.linkedin.com/feed/update/urn:li:activity:7363930910473220098/)
+
 ---
 
 ## Problem Statement
