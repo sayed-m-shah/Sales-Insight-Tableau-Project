@@ -57,7 +57,7 @@ and success criteria of the project.
 
 #### 🔎 Dashboard Navigation Demo (Tableau Public)
 
-<img src="https://github.com/sayed-m-shah/Sales-Insight-Tableau-Project/blob/main/DATASET/Sales%20Insight%20Dashboard%20Gif.gif" width="600" class="center">
+<img src="https://github.com/sayed-m-shah/Sales-Insight-Tableau-Project/blob/main/DATASET/Sales%20Insight%20Dashboard%20Gif.gif" width="1000" class="center">
 
 #### Data Model
 
