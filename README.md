@@ -1,7 +1,8 @@
 # AtliQ Sales Insights Tableau Dashboard
 
-This is a project I replicated from Codebasics PowerBI YouTube playlist, but instead of using PowerBI,  
-I created the dashboard in **Tableau Public**. You can find the original playlist link below for reference:
+This is a project I replicated from the Codebasics PowerBI YouTube playlist, but instead of using PowerBI,
+I created the dashboard in **Tableau Public** during my Codebasics Tableau Certification. 
+You can find the free playlist link below of the PowerBI version of this project for reference:
 
 [Codebasics Youtube Playlist](https://www.youtube.com/playlist?list=PLeo1K3hjS3uva8pk1FI3iK9kCOKQdz1I9)
 
