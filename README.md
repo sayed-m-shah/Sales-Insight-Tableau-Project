@@ -57,19 +57,19 @@ and success criteria of the project.
 
 #### 🔎 Dashboard Navigation Demo (Tableau Public)
 
-<img src="https://github.com/sayed-m-shah/Sales-Insight-Tableau-Project/blob/main/DATASET/Sales%20Insight%20Dashboard%20Gif.gif" width="1000" class="center">
+<img src="https://github.com/sayed-m-shah/Sales-Insight-Tableau-Project/blob/main/DATASET/Sales%20Insight%20Dashboard%20Gif.gif" width="800" class="center">
 
 #### Data Model
 
-<img src="https://github.com/sayed-m-shah/Sales-Insight-Tableau-Project/blob/main/DATASET/Sales%20Insight%20Data%20Model.png" width="600" class="center">
+<img src="https://github.com/sayed-m-shah/Sales-Insight-Tableau-Project/blob/main/DATASET/Sales%20Insight%20Data%20Model.png" width="800" class="center">
 
 #### Revenue Analysis Dashboard
 
-<img src="https://github.com/sayed-m-shah/Sales-Insight-Tableau-Project/blob/main/DATASET/Revenue%20Analysis.png" width="550" class="center">
+<img src="https://github.com/sayed-m-shah/Sales-Insight-Tableau-Project/blob/main/DATASET/Revenue%20Analysis.png" width="800" class="center">
 
 #### Profit Analysis Dashboard
 
-<img src="https://github.com/sayed-m-shah/Sales-Insight-Tableau-Project/blob/main/DATASET/Profit%20Analysis.png" width="550" class="center">
+<img src="https://github.com/sayed-m-shah/Sales-Insight-Tableau-Project/blob/main/DATASET/Profit%20Analysis.png" width="800" class="center">
 
 
 ---
