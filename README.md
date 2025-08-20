@@ -5,7 +5,7 @@ I created the dashboard in **Tableau Public**. You can find the original playlis
 
 [Codebasics Youtube Playlist](https://youtube.com/playlist?list=PLeo1K3hjS3uva8pk1FI3iK9kCOKQdz1I9)
 
-[Live Report Link](https://public.tableau.com/app/profile/your-link-here)
+[Live Dashboard Link](https://public.tableau.com/views/SalesInsightsProject_17556326312940/Dashboard-RevenueAnalysis?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
@@ -35,7 +35,7 @@ In my project, instead of PowerBI, I built this solution in **Tableau Public** u
 Using the AIMS grid project management tool, we defined the purpose, stakeholders, end results,  
 and success criteria of the project.
 
-<img src="https://github.com/Naveen-S6/AtliQ_Sales_Insigths_PowerBi/blob/main/DATASET/AIMS.jpg" width="550" class="center">
+<img src="https://github.com/sayed-m-shah/Sales-Insight-Tableau-Project/blob/main/DATASET/AIMS.jpg" width="550" class="center">
 
 ---
 
@@ -55,17 +55,22 @@ and success criteria of the project.
 
 ## Final Results
 
-#### Initial Dashboard
+#### 🔎 Dashboard Navigation Demo (Tableau Public)
 
-<img src="https://github.com/Naveen-S6/AtliQ_Sales_Insigths_PowerBi/blob/main/DATASET/Inital_report.png" width="550" class="center">
+<img src="https://github.com/sayed-m-shah/Sales-Insight-Tableau-Project/blob/main/DATASET/Sales%20Insight%20Dashboard%20Gif.gif" width="600" class="center">
 
-#### Updated Dashboard
+#### Data Model
 
-<img src="https://github.com/Naveen-S6/AtliQ_Sales_Insigths_PowerBi/blob/main/DATASET/Final_report.png" width="550" class="center">
+<img src="https://github.com/sayed-m-shah/Sales-Insight-Tableau-Project/blob/main/DATASET/Sales%20Insight%20Data%20Model.png" width="600" class="center">
 
-#### Interactive Dashboard (Tableau Public)
+#### Revenue Analysis Dashboard
 
-<img src="https://github.com/Naveen-S6/AtliQ_Sales_Insigths_PowerBi/blob/main/DATASET/GIF.gif" width="600" class="center">
+<img src="https://github.com/sayed-m-shah/Sales-Insight-Tableau-Project/blob/main/DATASET/Revenue%20Analysis.png" width="550" class="center">
+
+#### Profit Analysis Dashboard
+
+<img src="https://github.com/sayed-m-shah/Sales-Insight-Tableau-Project/blob/main/DATASET/Profit%20Analysis.png" width="550" class="center">
+
 
 ---
 
